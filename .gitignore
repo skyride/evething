@@ -3,7 +3,6 @@
 *.sublime-project
 *.sublime-workspace
 .idea
-local_settings.py
 skill_map.pickle
 thing/profile_middleware.py
 .*.swp
